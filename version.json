@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/emirhanisikay/GcmVmsUpdate/releases/download/v1.1.0/GCM_VMS_Setup.exe",
-  "notes": "Performans iyileştirmeleri, preset desteği ve grid optimizasyonları."
+  "version": "1.1.1",
+  "url": "https://github.com/emirhanisikay/GcmVmsUpdate/releases/download/v1.1.1/GCM_VMS_Setup.exe",
+  "notes": "Izgara geçişlerinde loading ekranı eklendi, kamera hücrelerine yükleniyor göstergesi eklendi, main stream geçişleri iyileştirildi ve otomatik güncelleme sistemi aktif edildi."
 }
