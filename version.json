@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/emirhanisikay/GcmVmsUpdate/releases/download/v1.1.1/GCM_VMS_Setup.exe",
-  "notes": "Izgara geçişlerinde loading ekranı eklendi, kamera hücrelerine yükleniyor göstergesi eklendi, main stream geçişleri iyileştirildi ve otomatik güncelleme sistemi aktif edildi."
+  "version": "1.1.2",
+  "url": "https://github.com/emirhanisikay/GcmVmsUpdate/releases/download/v1.1.2/GCM_VMS_Setup.exe",
+  "notes": "1x1 ızgara görünümünde artık kameralar doğrudan main stream kalitesinde açılır."
 }
